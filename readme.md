@@ -88,4 +88,3 @@ g++ main.cpp -o freq_table
 
 
 ---
-by : osama-mohamoud
